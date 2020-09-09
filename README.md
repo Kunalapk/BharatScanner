@@ -1,5 +1,19 @@
 # BharatScanner - Document Scanner for Android
-An android app to support document scanning, written entirely in Kotlin, uses MVC architecture and Kotlin Coroutines.
+An android app to support document scanning, written entirely in Kotlin.
 
 ### Getting Started
 
+- Download & Install Android Studio - [from here](https://developer.android.com/studio/)
+- Clone the project
+- Import the project in Android Studio
+- Go to Build > Make Project
+- Connect a physical device
+- Go to Run > Run 'app'
+
+### Supported Platforms
+-----------------------
+```
+Works on Android 5.0+ (API level 21+) and on Java 8+.
+
+### User-Guide
+---------------------------
