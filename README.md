@@ -14,6 +14,7 @@ An android app to support document scanning, written entirely in Kotlin.
 -----------------------
 ```
 Works on Android 5.0+ (API level 21+) and on Java 8+.
+```
 
 ### User-Guide
 ---------------------------
