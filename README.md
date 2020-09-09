@@ -1,1 +1,1 @@
-# BharatScanner
+# BharatScanner - Document Scanner for Android
