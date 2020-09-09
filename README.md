@@ -18,7 +18,10 @@ Works on Android 5.0+ (API level 21+) and on Java 8+.
 
 ### Let's scan the images!
 ---------------------------
+The simplest way to start
+
 ```kotlin
+
 private fun callBharatScannerIntent(){
     val bharatScannerIntent = Intent()
     bharatScannerIntent.setClassName("com.kickhead.camscanner", "com.scanlibrary.CameraActivity");
@@ -26,6 +29,8 @@ private fun callBharatScannerIntent(){
     startActivityForResult(bharatScannerIntent, 200)
 }
 ```
+
+Receive result
 
 ```kotlin
 override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
